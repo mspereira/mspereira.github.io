@@ -3,7 +3,7 @@ title: Miguel Pereira Blog
 email: cpm.miguelpereira@gmail.com
 description: "Site Description"
 logo_location: "http://cdn.altrn.tv/icons/code-school_21813.png"
-
+permaliks: pretty
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 
