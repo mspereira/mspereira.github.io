@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+<p align="center"><img height="100px" width="100px" src="{{ site.assets_path }}/img/me_thumbnail.png"></p>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hello! my name is Miguel da Silva Pereira and i am studying to become a Multimedia technician, currently im doing an internship at porto i/o. I always wanted to learn how to code and do websites, i started creating websites in school for a school project and i liked so much i wanted to know more about it ... so here am i.
